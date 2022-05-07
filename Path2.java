@@ -54,4 +54,3 @@ class Path2 {
     }
 }
  
-// This code is contributed by Sumit Ghosh
